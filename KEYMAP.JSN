@@ -21,8 +21,8 @@
   "KC_LGUI","KC_NO","KC_SPC","KC_ENT","KC_NO","RALT_T(KC_TAB)"
 ],
 [
-  "RESET",  "AD_WO_L","KC_NO",   "KC_NO","KC__VOLDOWN","KC__VOLUP","KC_WH_D","KC_WH_U","KC_PGUP","KC_PGDN","KC_NO","ADV_ID0",
-  "SEL_USB","KC_NO",  "M_SS_MEM","KC_NO","KC_NO",      "KC__MUTE", "KC_MS_L","KC_MS_D","KC_MS_U","KC_MS_R","KC_NO","ADV_ID1",
-  "SEL_BLE","KC_NO",  "KC_NO",   "KC_NO","KC_NO","BATT_LV","KC_BTN1","KC_BTN2",  "KC_NO",  "KC_NO",  "KC_NO","ADV_ID2",
+  "RESET",  "AD_WO_L","KC_NO",   "KC_NO","KC__VOLDOWN","KC__VOLUP","KC_WH_D","KC_WH_U","KC_PGUP","KC_PGDN","DEL_ID0","ADV_ID0",
+  "SEL_USB","KC_NO",  "M_SS_MEM","KC_NO","KC_NO",      "KC__MUTE", "KC_MS_L","KC_MS_D","KC_MS_U","KC_MS_R","DEL_ID1","ADV_ID1",
+  "SEL_BLE","KC_NO",  "KC_NO",   "KC_NO","KC_NO",      "BATT_LV",  "KC_BTN1","KC_BTN2","KC_NO",  "KC_NO",  "DEL_ID2","ADV_ID2",
   "KC_LGUI","KC_NO",  "AD_WO_L", "KC_NO","ENT_SLP","RALT_T(KC_TAB)"
 ]]}
