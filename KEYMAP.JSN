@@ -27,7 +27,7 @@
   "KC_LGUI","KC_NO","ENT_SLP","KC_NO","KC_NO","RALT_T(KC_TAB)"
 ],
 [
-  "KC_NO",  "AD_WO_L","ADV_ID0","ADV_ID1","ADV_ID2","ADV_ID3","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO",
+  "AD_WO_L","ADV_ID0","ADV_ID1","ADV_ID2","ADV_ID3","ADV_ID4","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO",
   "SEL_USB","KC_NO",  "KC_NO",  "KC_NO",  "KC_NO",  "KC_NO",  "KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO",
   "SEL_BLE","KC_NO",  "KC_NO",  "KC_NO",  "KC_NO",  "KC_NO",  "KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO",
   "KC_LGUI","KC_NO",  "KC_NO","ENT_SLP","KC_NO","RALT_T(KC_TAB)"
