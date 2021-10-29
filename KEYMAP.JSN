@@ -21,14 +21,14 @@
   "KC_LGUI","KC_NO","KC_SPC","KC_ENT","KC_NO","LALT_T(KC_TAB)"
 ],
 [
-  "RESET","KC_NO","KC_NO",   "KC_NO","KC__VOLUP","KC__VOLDOWN","KC_WH_D","KC_WH_U","KC_PGUP","KC_PGDN","DEL_ID0","ADV_ID0",
-  "KC_NO","KC_NO","M_SS_MEM","KC_NO","KC_NO",    "KC__MUTE",   "KC_MS_L","KC_MS_D","KC_MS_U","KC_MS_R","DEL_ID1","ADV_ID1",
-  "KC_NO","KC_NO","KC_NO",   "KC_NO","KC_NO",    "BATT_LV",    "KC_BTN1","KC_BTN2","KC_NO",  "KC_NO",  "DEL_ID2","ADV_ID2",
+  "RESET","KC_NO","KC_NO",   "KC_NO","KC__VOLUP","KC__VOLDOWN","KC_WH_D","KC_WH_U","KC_PGUP","KC_PGDN","KC_NO","ADV_ID0",
+  "KC_NO","KC_NO","M_SS_MEM","KC_NO","KC_NO",    "KC__MUTE",   "KC_MS_L","KC_MS_D","KC_MS_U","KC_MS_R","KC_NO","ADV_ID1",
+  "KC_NO","KC_NO","KC_NO",   "KC_NO","KC_NO",    "BATT_LV",    "KC_BTN1","KC_BTN2","KC_NO",  "KC_NO",  "KC_NO","ADV_ID2",
   "KC_LGUI","KC_NO","ENT_SLP","KC_NO","KC_NO","LALT_T(KC_TAB)"
 ],
 [
   "AD_WO_L","ADV_ID0","ADV_ID1","ADV_ID2","ADV_ID3","ADV_ID4","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO",
-  "SEL_USB","KC_NO",  "KC_NO", "KC_NO", "KC_NO", "KC_G",   "KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO",
-  "SEL_BLE","KC_NO",  "KC_NO",  "KC_NO",  "KC_NO",  "KC_NO",  "KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO",
+  "SEL_USB","KC_NO",  "KC_NO",  "KC_NO",  "KC_NO", "KC_G",   "KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO",
+  "SEL_BLE","DEL_ID0","DEL_ID1","DEL_ID2","KC_NO",  "KC_NO",  "KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO",
   "KC_LGUI","KC_NO","KC_NO","ENT_SLP","KC_NO","LALT_T(KC_TAB)"
 ]]}

@@ -1,5 +1,5 @@
 {"tapping_term":{
-	"LT(1,KC_LANG2)": 200,
-	"LT(2,KC_LANG1)": 200,
+	"LT(1,KC_LANG2)":150,
+	"LT(2,KC_LANG1)":150,
 	"KC_NO":130
 }}
